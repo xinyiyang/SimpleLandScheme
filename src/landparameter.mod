@@ -1,0 +1,75 @@
+GFORTRAN module version '0' created from modelsetting.f90 on Thu Sep 16 12:11:42 2021
+MD5:b1d491b50d68e1c0ae388bb0c8ca28bf -- If you edit this, you'll get what you deserve.
+
+(() () () () () ()
+() () () () () () () () () () () () () () () () () () () () ())
+
+()
+
+()
+
+()
+
+()
+
+(2 'albd' 'landparameter' 'albd' 1 ((VARIABLE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (REAL 4 0 0 REAL ()) 0 0 ()
+(1 EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '3')) 0 () () () 0 0)
+3 'albedo' 'landparameter' 'albedo' 1 ((VARIABLE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION) (REAL 4 0 0 REAL ()) 0 0 () (2
+EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER
+4 0 0 INTEGER ()) 0 '128') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '64')) 0 () () () 0 0)
+4 'deltt' 'dimensions' 'deltt' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '10800') () 0 () () () 0 0)
+5 'dimensions' 'dimensions' 'dimensions' 1 ((MODULE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ()) 0 0 () () 0 ()
+() () 0 0)
+6 'lai' 'landparameter' 'lai' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE DIMENSION) (REAL 4 0 0 REAL ()) 0 0 () (1 EXPLICIT
+(CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '3')) 0 () () () 0 0)
+7 'landparameter' 'landparameter' 'landparameter' 1 ((MODULE
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN) (UNKNOWN 0 0 0 UNKNOWN ())
+0 0 () () 0 () () () 0 0)
+8 'ndc' 'landparameter' 'ndc' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN DIMENSION) (REAL 4 0 0 REAL ()) 0 0 () (2 EXPLICIT (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '128') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '64')) 0 () () () 0 0)
+9 'nstep' 'dimensions' 'nstep' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '87656') () 0 () () () 0 0)
+10 'ntype' 'landparameter' 'ntype' 1 ((PARAMETER UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '4') () 0 () () () 0 0)
+11 'nx' 'dimensions' 'nx' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '128') () 0 () () () 0 0)
+12 'ny' 'dimensions' 'ny' 1 ((PARAMETER UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE) (INTEGER 4 0 0 INTEGER ()) 0 0 () (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '64') () 0 () () () 0 0)
+13 'rl' 'landparameter' 'rl' 1 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN IMPLICIT-SAVE DIMENSION) (REAL 4 0 0 REAL ()) 0 0 () (1 EXPLICIT
+(CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') (CONSTANT (INTEGER 4 0 0
+INTEGER ()) 0 '3')) 0 () () () 0 0)
+14 'rsmin' 'landparameter' 'rsmin' 1 ((VARIABLE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (REAL 4 0 0 REAL ()) 0 0 ()
+(1 EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '3')) 0 () () () 0 0)
+15 'sfctype' 'landparameter' 'sfctype' 1 ((VARIABLE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN DIMENSION) (REAL 4 0 0 REAL ()) 0 0 () (2
+EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (CONSTANT (INTEGER
+4 0 0 INTEGER ()) 0 '128') (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '1') (
+CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '64')) 0 () () () 0 0)
+16 'wdmax' 'landparameter' 'wdmax' 1 ((VARIABLE UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN IMPLICIT-SAVE DIMENSION) (REAL 4 0 0 REAL ()) 0 0 ()
+(1 EXPLICIT (CONSTANT (INTEGER 4 0 0 INTEGER ()) 0 '0') (CONSTANT (
+INTEGER 4 0 0 INTEGER ()) 0 '3')) 0 () () () 0 0)
+)
+
+('albd' 0 2 'albedo' 0 3 'deltt' 0 4 'dimensions' 0 5 'lai' 0 6
+'landparameter' 0 7 'ndc' 0 8 'nstep' 0 9 'ntype' 0 10 'nx' 0 11 'ny' 0
+12 'rl' 0 13 'rsmin' 0 14 'sfctype' 0 15 'wdmax' 0 16)
