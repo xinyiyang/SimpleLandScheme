@@ -1,0 +1,13 @@
+&nmlLandParameter
+fn_albedo = '/share/kkraid/yangx2/fortran/qtcm/bnddata/alb.t42.dat'
+fn_sfctype ='/share/kkraid/yangx2/fortran/qtcm/bnddata/stype.t42.dat'
+/
+
+&nmlLandVarInit
+fn_ts = '/share/kkraid/yangx2/fortran/qtcm/bnddata/skt.t42.dat'
+fn_wetness ='/share/kkraid/yangx2/fortran/qtcm/bnddata/swvl1.t42.dat'
+/
+
+&nmlLandVarOut
+fn_output = '/share/kkraid/yangx2/fortran/lsm/output/historical_run/output.dat'
+/

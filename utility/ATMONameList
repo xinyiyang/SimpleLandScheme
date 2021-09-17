@@ -1,0 +1,8 @@
+&nmlAtmoForcing
+fn_pr   = '/share/kkraid/yangx2/fortran/qtcm/forcing/prcp/prcp.t42.dat'
+fn_SWdw = '/share/kkraid/yangx2/fortran/qtcm/forcing/dswrf/dswrf.t42.dat'
+fn_LWdw = '/share/kkraid/yangx2/fortran/qtcm/forcing/dlwrf/dlwrf.t42.dat'
+fn_us   = '/share/kkraid/yangx2/fortran/qtcm/forcing/wind/wind.t42.dat'
+fn_qa   = '/share/kkraid/yangx2/fortran/qtcm/forcing/shum/shum.t42.dat'
+fn_Ta   = '/share/kkraid/yangx2/fortran/qtcm/forcing/tas/tas.t42.dat'
+/
